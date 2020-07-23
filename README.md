@@ -1,5 +1,7 @@
 # galiaMuslimova.github.io
 
-Этот сайт был сделан в рамках курса Advanced CSS от Microsoft. Макет, изображения и инструкции были взяты там же.
-Курс предназначался для изучения scss. Стили были написаны с помощью scss, а затем скомпилированы с помощью tasks через visual studio code.
-Я также дополнила от себя сайт jquery скриптами для создания анимации на картинках и для сворачивания меню на мобильных устройствах.
+This site was made in course Advanced CSS by Microsoft. Layout and images were taken there.
+Styles were written and compiled by scss. 
+I also add some JQuery scripts for menu toggle and images animation.
+
+Demo https://galiamuslimova.github.io/
